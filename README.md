@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amannd
 - 👀 I’m interested in learn;
-- 🌱 I’m currently learning Java;
+- 🌱 I’m currently learning TI;
 - 💞️ I’m looking to collaborate in knowledge;
 - 📫 How to reach me? https://www.linkedin.com/in/amanda-ferreira-a183b5191/
 
